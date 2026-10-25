@@ -3,7 +3,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { ProjectItem } from '@/types/portfolio';
-import { ExternalLink, Layers, Sparkles, FolderGit2 } from 'lucide-react';
+import { ExternalLink, Layers, Sparkles } from 'lucide-react';
 import { GithubIcon } from '@/components/GithubIcon';
 
 interface ProjectCardProps {

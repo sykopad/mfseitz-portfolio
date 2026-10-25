@@ -5,7 +5,7 @@ import { featuredProjects } from '@/data/projects';
 import { ProjectCategory, ProjectItem } from '@/types/portfolio';
 import { ProjectCard } from '@/components/ProjectCard';
 import { ProjectModal } from '@/components/ProjectModal';
-import { Search, Sparkles, Filter, Code2, Globe2 } from 'lucide-react';
+import { Search, Code2 } from 'lucide-react';
 
 const categories: ProjectCategory[] = [
   'All',

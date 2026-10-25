@@ -2,8 +2,8 @@
 
 import React, { useState } from 'react';
 import { apifyActorsList } from '@/data/apify-actors';
-import { ApifyCategory, ApifyActorItem } from '@/types/portfolio';
-import { Search, Bot, Database, Sparkles, Filter, ChevronRight } from 'lucide-react';
+import { ApifyCategory } from '@/types/portfolio';
+import { Search, Bot } from 'lucide-react';
 
 const categories: ApifyCategory[] = [
   'All',

@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Image from 'next/image';
-import { Mail, MapPin, Sparkles, Copy, Check, Terminal, ExternalLink, Code2, FileText } from 'lucide-react';
+import { Mail, MapPin, Copy, Check, Code2, FileText } from 'lucide-react';
 import { LinkedinIcon } from '@/components/LinkedinIcon';
 
 export function HeroSection() {
